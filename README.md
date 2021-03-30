@@ -1,4 +1,4 @@
-# mat-logic-taskA
+# mathematic_logic
 **Task A. Разбор утверждения**
 
   * Имя входного файла: стандартный ввод
